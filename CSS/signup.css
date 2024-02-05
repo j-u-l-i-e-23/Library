@@ -1,0 +1,12 @@
+section{
+    background-image: url("/images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.card{
+    background-color: rgb(160, 190, 247);
+    border: 4px solid darkcyan;
+}

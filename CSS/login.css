@@ -1,0 +1,19 @@
+section{
+    background-image: url("/images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card{
+    background-color: darkgray;
+    height:fit-content;
+    width:fit-content;
+}
+body{
+    overflow: hidden;
+}
+
+#emai,#pswd{
+    width: 30;
+    height: fit-content;
+}
